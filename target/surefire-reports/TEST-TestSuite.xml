@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="3.229" tests="4" errors="0" skipped="2" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.241-b07"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Applications/jagadeesh/hackathon/sampleproject/pCloudy-sample-projects/Java/NewAppium_SampleProjects/Chapter2-TestNg+OnParallelDevice(Android)"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Applications/jagadeesh/hackathon/sampleproject/pCloudy-sample-projects/Java/NewAppium_SampleProjects/Chapter2-TestNg+OnParallelDevice(Android)"/>
+    <property name="java.runtime.version" value="1.8.0_241-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/w1/7yn1hpws3qv82rd2qyjzb1mnh4ztm6/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="//Applications/jagadeesh/maven/apache-maven-3.6.3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/jagadeesh.madhura/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="//Applications/jagadeesh/maven/apache-maven-3.6.3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.15.3"/>
+    <property name="library.jansi.path" value="//Applications/jagadeesh/maven/apache-maven-3.6.3/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/jagadeesh.madhura"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="jagadeesh.madhura"/>
+    <property name="java.class.path" value="//Applications/jagadeesh/maven/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test clean"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_241"/>
+    <property name="java.ext.dirs" value="/Users/jagadeesh.madhura/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Applications/jagadeesh/maven/apache-maven-3.6.3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="prepareTest" classname="com.pCloudy.testNG.Runner" time="2.985">
+    <failure message="Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full &apos;ASUS_Zenfone3_Android_8.0.0&apos;name not found/already booked. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 2.32 seconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full 'ASUS_Zenfone3_Android_8.0.0'name not found/already booked. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.32 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+Caused by: java.lang.reflect.InvocationTargetException
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+Caused by: org.openqa.selenium.SessionNotCreatedException: 
+com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full 'ASUS_Zenfone3_Android_8.0.0'name not found/already booked. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.32 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+</failure>
+  </testcase>
+  <testcase name="prepareTest" classname="com.pCloudy.testNG.Runner" time="3.035">
+    <failure message="Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full &apos;ASUS_Zenfone3_Android_8.0.0&apos;name not found/already booked. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 2.39 seconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full 'ASUS_Zenfone3_Android_8.0.0'name not found/already booked. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.39 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+Caused by: java.lang.reflect.InvocationTargetException
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+Caused by: org.openqa.selenium.SessionNotCreatedException: 
+com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full 'ASUS_Zenfone3_Android_8.0.0'name not found/already booked. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.39 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SB-IN-PYEKMD6N.local', ip: '192.168.43.34', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '1.8.0_241'
+Driver info: driver.version: AndroidDriver
+	at com.pCloudy.testNG.Runner.prepareTest(Runner.java:69)
+</failure>
+  </testcase>
+  <testcase name="Test" classname="com.pCloudy.testNG.Runner" time="0">
+    <skipped message="Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full &apos;ASUS_Zenfone3_Android_8.0.0&apos;name not found/already booked. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 2.32 seconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver"/>
+  </testcase>
+  <testcase name="Test" classname="com.pCloudy.testNG.Runner" time="0">
+    <skipped message="Unable to create a new remote session. Please check the server log for more details. Original error: com.ssts.pcloudy.exceptions.DeviceNotBookedException : Requested Device Full &apos;ASUS_Zenfone3_Android_8.0.0&apos;name not found/already booked. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 2.39 seconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;SB-IN-PYEKMD6N.local&apos;, ip: &apos;192.168.43.34&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.3&apos;, java.version: &apos;1.8.0_241&apos;&#10;Driver info: driver.version: AndroidDriver"/>
+  </testcase>
+</testsuite>
